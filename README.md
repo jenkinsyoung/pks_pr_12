@@ -28,7 +28,7 @@
 
 <img src='https://github.com/user-attachments/assets/de7ad75a-da82-4107-8542-a719bb0e54be' width = 300 />
 
-<img src='!https://github.com/user-attachments/assets/56cecd84-333f-47d3-a2eb-86a3cb7bd88b' width = 300 />
+<img src='https://github.com/user-attachments/assets/56cecd84-333f-47d3-a2eb-86a3cb7bd88b' width = 300 />
 
 4) Поиск данных о пользователе происходит по почте, поэтому регистрация с supabase со своим id никак не связана с id в БД (PosgreSQL)
 
